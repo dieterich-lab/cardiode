@@ -17,9 +17,11 @@ All discharge letters of CARDIO:DE are distributed as tsv3 (<a href="https://web
 ## Access
 CARDIO:DE is only available for research purposes. It can be requested via three steps:
 
-1. Description of your research group including a project description
+1. Description of your research group (including contact details) including a project description
 2. Signing data usage agreement form (LINK)
-3. data distribution after positive decision by the CARDIO:DE study director via a download link
+3. Send the information to the study director via sekretariat.dieterich(at)med.uni-heidelberg.de
+
+The data will be distributed after positive decision by the CARDIO:DE study director via a download link
 
 ## Citing CARDIO:DE
 Phillip Richter-Pechanski, Dominic M. Schwab, Christina Kiriakou, Philipp Wiesenbach, Mingyang He, Michael Allers, Sophie Tiefenbacher, Nicole Kunze, Anna Martynova, Noemie Spiller, Julian Mierisch, Charlotte Schwind, Christoph Dieterich, Nicolas Geis, ...
