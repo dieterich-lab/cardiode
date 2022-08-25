@@ -4,15 +4,15 @@ CARDIO:DE is the first distributable and freely available German corpus containi
 
 All discharge letters were carefully anonymized by domain experts using automatic and manual methods.
 
-CARDIO:DE cotains manual gold standard annotations of:
+CARDIO:DE contains manual gold standard annotations of:
 
 1. medication information (ActiveIng, Dosage, Drug, Duration, Form, Frequency, Reason, Route, Strength)
 2. section types (Abschluss, Anamnese, Anrede, Diagnosen, AufnahmeMedikation, Befunde, EchoBefunde, AktuellDiagnosen, EntlassMedikation, KuBefunde, Labor, Anderes, RisikofaktorenAllergien, Zusammenfassung)
 
 
-CARDIO:DE is pslit into CARDIO:DE400 and CARDIO:DE100. Discharge letters of CARDIO:DE400 (including annotations) and CARDIO:DE100 can be requested via this website. Annotations of CARDIO:DE100 are kept internally as held-out data for future shared task purposes.
+CARDIO:DE is split into CARDIO:DE400 and CARDIO:DE100. Discharge letters of CARDIO:DE400 (including annotations) and CARDIO:DE100 can be requested via this website. Annotations of CARDIO:DE100 are kept internally as held-out data for future shared task purposes.
 
-Alls discharge letters of CARDIO:DE are distributed as tsv3 (Webanno) files. Results of baselne models for medication information extraction and section type classification can be found in the CARDIO:DE publication.
+All discharge letters of CARDIO:DE are distributed as tsv3 (<a href="https://webanno.github.io/webanno/releases/3.4.5/docs/user-guide.html#sect_webannotsv">documentation<(/a>) files. Results of baselne models for medication information extraction and section type classification can be found in the CARDIO:DE publication.
 
 ## Access
 CARDIO:DE is only available for research purposes. It can be requested via three steps:
