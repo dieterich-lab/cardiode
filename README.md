@@ -12,7 +12,7 @@ CARDIO:DE contains manual gold standard annotations of:
 
 CARDIO:DE is split into CARDIO:DE400 and CARDIO:DE100. Discharge letters of CARDIO:DE400 (including annotations) and CARDIO:DE100 can be requested via this website. Annotations of CARDIO:DE100 are kept internally as held-out data for future shared task purposes.
 
-CARDIO:DE contains 500 discharge letters in plain text files and in tsv3 format (<a href="https://webanno.github.io/webanno/releases/3.4.5/docs/user-guide.html#sect_webannotsv">documentation</a>) files. Results of baselne models for medication information extraction and section type classification can be found in the CARDIO:DE publication.
+CARDIO:DE contains 500 discharge letters in plain text files and in tsv3 format (<a href="https://webanno.github.io/webanno/releases/3.4.5/docs/user-guide.html#sect_webannotsv">documentation</a>). Results of baselne models for medication information extraction and section type classification can be found in the CARDIO:DE publication.
 
 ## Access
 CARDIO:DE is only available for research purposes. It can be requested via three steps:
